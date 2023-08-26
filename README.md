@@ -10,7 +10,7 @@
 
 ## LRS Clooud
 GrassBlade LRS 
-[https://www.nextsoftwaresolutions.com](https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api/)https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api
+https://www.nextsoftwaresolutions.com/grassblade-lrs-experience-api
 
 ## Main Plugins 
 - Learndash
